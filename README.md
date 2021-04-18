@@ -4,8 +4,7 @@ Hi, I'm Sebastian, a passionate self-taught Android and Java Developer from Roma
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on Banking App Concept <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="500" height="320" style="max-width:100%;">
-
+- 🔭 I’m currently working on Banking App Concept 
 - 🌱 I’m currently learning Dart , SQL , Android , Java, Flutter , Kotlin. 
 - 👯 I’m looking to collaborate on GitHub Projects 
 - 🤔 I’m looking for help with Android , Java , Dart, Kotlin
@@ -13,6 +12,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 - 📫 How to reach me: usebastian12@protonmail.com 
 - 😄 Pronouns: Sebi 
 
+<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="700" height="320" style="max-width:100%;">
 
 
 
