@@ -1,6 +1,6 @@
 ## Hi there! 👋    ![Profile views](https://gpvc.arturio.dev/usebastian97)  
 
-Hi, I'm Sebastian, a passionate self-taught Android and Java Developer from Romania🇷🇴. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Sebastian, a passionate self-taught Android and Java Developer from Romania. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
