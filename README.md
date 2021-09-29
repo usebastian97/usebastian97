@@ -14,7 +14,9 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 
 <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="700" height="320" style="max-width:100%;">
 
+## Online
 
+<a href="https://app.daily.dev/usebastian12"><img src="https://api.daily.dev/devcards/9f17b83d6f754ee293c17e9ccb02cca7.png?r=exg" width="400" alt="Sebastian Utoiu's Dev Card"/></a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
