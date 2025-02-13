@@ -1,22 +1,14 @@
-## Hi there! 👋    ![Profile views](https://gpvc.arturio.dev/usebastian97)  
+## Hi there! 👋 
 
-Hi, I'm Sebastian, a passionate self-taught Android and Java Developer from Romania. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
+Hi, I'm Sebastian, a passionate IT professional with 3 years of experience in software development, IT consulting, and Android UI development, complemented by a unique blend of technical expertise (Java, Python, Kotlin, SQL) and Business acumen (BBA in Marketing). Proven ability to bridge technical solutions with strategic business goals, from debugging enterprise applications to scaling an eco-friendly e-commerce venture. Currently pursuing a Master’s in Computer Science with a focus on cloud computing and IT auditing.
 
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
 
-- 🔭 I’m currently working on Banking App Concept 
-- 🌱 I’m currently learning Dart , SQL , Android , Java, Flutter , Kotlin. 
+- 🔭 I’m currently working on eCommerce website
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on GitHub Projects 
-- 🤔 I’m looking for help with Android , Java , Dart, Kotlin
 - 💬 Ask me about anything, I am happy to help. 
 - 📫 How to reach me: usebastian12@protonmail.com 
-- 😄 Pronouns: Sebi 
-
-<img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="700" height="320" style="max-width:100%;">
-
-## Online
-
-<a href="https://app.daily.dev/usebastian12"><img src="https://api.daily.dev/devcards/9f17b83d6f754ee293c17e9ccb02cca7.png?r=exg" width="400" alt="Sebastian Utoiu's Dev Card"/></a>
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
