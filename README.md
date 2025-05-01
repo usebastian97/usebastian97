@@ -1,11 +1,11 @@
 ## Hi there! 👋 
 
-Hi, I'm Sebastian, a passionate IT professional with 3 years of experience in software development, IT consulting, and Android UI development, complemented by a unique blend of technical expertise (Python, Kotlin, SQL) and Business acumen (BBA in Marketing). Proven ability to bridge technical solutions with strategic business goals, from debugging enterprise applications to scaling an eco-friendly e-commerce venture. Currently pursuing a Master’s in Computer Science with a focus on cloud computing and IT auditing.
+Hi, I'm Sebastian, a passionate IT professional with 3 years of experience in software development, IT consulting, and Android UI development, complemented by a unique blend of technical expertise (Python, Kotlin, SQL) and Business acumen (BBA in Marketing). Proven ability to bridge technical solutions with strategic business goals, from debugging enterprise applications to scaling an eco-friendly e-commerce venture and currently pursuing a Master’s in Computer Science with a focus on cloud computing and IT auditing.
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
+I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open-source.
 
-- 🔭 I’m currently learning: Python, MySQL, Excel, Tableau, and Cloud Computing.
-- 👯 I’m looking to collaborate on GitHub Projects 
+- 🔭 I’m currently learning: Python, MySQL, and Azure Cloud.
+- 👯 I’m working now at a Mobile Application in Flutter with Dart Programming Language
 - 💬 Ask me about anything, I am happy to help. 
 - 📫 How to reach me: usebastian12@protonmail.com 
 
