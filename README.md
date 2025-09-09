@@ -1,20 +1,40 @@
-## Hi there! 👋
+# Hi there, I'm Sebastian 👋
 
-I’m Sebastian, an IT professional transitioning into a career as a Cloud Architect with a strong focus on Microsoft Azure, AI, and Security. With 3+ years of experience in software development, IT consulting, and Android UI engineering, I’m now building on my technical foundation (Python, TypeScript, Kotlin, SQL, Flutter/Dart) by pursuing advanced cloud certifications (AZ-900, AZ-104, SC-900, AZ-305, AZ-500, AI-900, DP-100, AI-102, Terraform Associate).
+I’m an IT professional and open-source enthusiast transitioning into a career as a **Cloud Architect** with a strong focus on **Microsoft Azure, AI, and Security**.  
 
-My unique blend of business acumen (BBA in Marketing) and technical expertise allows me to bridge the gap between strategy and implementation — from designing secure, scalable architectures to helping businesses adopt cost-effective cloud solutions.
+With 3+ years of experience in **software development, IT consulting, and Android UI engineering**, I bring together hands-on coding expertise and business insight.  
+I also hold a **Master’s degree in Advanced Software Services** and a **BBA in Marketing**, which helps me bridge **technical solutions with strategic business goals**.  
 
-Currently, I’m:
+---
 
-🚀 Developing SaaS products like SkillCloudy (cloud certification prep) and SmartPDF.ai (AI-powered document automation)
-🎯 Studying full-time to become an Azure Cloud Architect in the next 6 months
-🤝 Exploring freelancing & consulting opportunities in Azure, AI, and cloud security
+## 🎯 What I’m Working On
+- 🚀 **SkillCloudy (USG Cloud Cards)** – a SaaS for cloud certification prep with multilingual flashcards  
+- 📄 **SmartPDF.ai** – an AI-powered document automation platform  
+- 🌐 Building my consulting roadmap in **Azure, AI, and Cloud Security**
 
-I’m also an open-source enthusiast and maintainer, passionate about knowledge sharing and building tools that empower others.
+---
 
-🔭 Currently learning: Azure Cloud, Terraform, and AI integration in SaaS
-💡 Ask me about: Cloud roadmaps, SaaS strategy, or certification prep
-📫 Reach me at: usebastian12@protonmail.com
+## 📚 Current Focus
+- **Learning & Certifications**:  
+  - Microsoft Azure (AZ-900, AZ-104, SC-900, AZ-305, AZ-500)  
+  - AI & Data (AI-900, DP-100, AI-102)  
+  - Terraform Associate  
+- **Cloud & SaaS Development**: Next.js, Supabase, Cloudflare, FastAPI, and Flutter  
+
+---
+
+## 💡 About Me
+- 👨‍💻 Passionate about **open-source**, sharing knowledge, and community building  
+- 🔭 Exploring **AI integration in SaaS** and **serverless architectures**  
+- 🤝 Open to **collaboration, freelancing, and consulting opportunities**  
+- 🌍 Based in Switzerland, working on projects with **global reach**  
+
+---
+
+## 📫 How to Reach Me
+- Email: **usebastian12@protonmail.com**  
+- LinkedIn: *[your-link-here]*  
+- GitHub: You’re already here ✨
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
