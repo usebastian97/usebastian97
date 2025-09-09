@@ -1,21 +1,22 @@
-## Hi there! 👋 
+## Hi there! 👋
 
-Hi, I'm Sebastian, a passionate IT professional with 3 years of experience in software development, IT consulting, and Android UI development, complemented by a unique blend of technical expertise (Python, Kotlin, SQL) and Business acumen (BBA in Marketing). Proven ability to bridge technical solutions with strategic business goals, from debugging enterprise applications to scaling an eco-friendly e-commerce venture and currently pursuing a Master’s in Computer Science with a focus on cloud computing and IT auditing.
+I’m Sebastian, an IT professional transitioning into a career as a Cloud Architect with a strong focus on Microsoft Azure, AI, and Security. With 3+ years of experience in software development, IT consulting, and Android UI engineering, I’m now building on my technical foundation (Python, TypeScript, Kotlin, SQL, Flutter/Dart) by pursuing advanced cloud certifications (AZ-900, AZ-104, SC-900, AZ-305, AZ-500, AI-900, DP-100, AI-102, Terraform Associate).
 
-I am also an open-source enthusiast and maintainer. I learned a lot from the open-source community, and I love how collaboration and knowledge sharing happen through open-source.
+My unique blend of business acumen (BBA in Marketing) and technical expertise allows me to bridge the gap between strategy and implementation — from designing secure, scalable architectures to helping businesses adopt cost-effective cloud solutions.
 
-- 🔭 I’m currently learning: Python, MySQL, and Azure Cloud.
-- 👯 I’m working now at a Mobile Application in Flutter with Dart Programming Language
-- 💬 Ask me about anything, I am happy to help. 
-- 📫 How to reach me: usebastian12@protonmail.com 
+Currently, I’m:
+
+🚀 Developing SaaS products like SkillCloudy (cloud certification prep) and SmartPDF.ai (AI-powered document automation)
+🎯 Studying full-time to become an Azure Cloud Architect in the next 6 months
+🤝 Exploring freelancing & consulting opportunities in Azure, AI, and cloud security
+
+I’m also an open-source enthusiast and maintainer, passionate about knowledge sharing and building tools that empower others.
+
+🔭 Currently learning: Azure Cloud, Terraform, and AI integration in SaaS
+💡 Ask me about: Cloud roadmaps, SaaS strategy, or certification prep
+📫 Reach me at: usebastian12@protonmail.com
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-## Languages and Tools:
-
-<img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/java/java.svg" style="max-width:100%;">    <img height="50" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/kotlin/kotlin.svg" style="max-width:100%;"> <img height="50" src="https://cdn.iconscout.com/icon/free/png-256/visualstudio-1-1174964.png" srcset="https://cdn.iconscout.com/icon/free/png-512/visualstudio-1-1174964.png 2x" alt="Visualstudio Icon" style="max-width:100%">  <img height="50" src="https://upload.wikimedia.org/wikipedia/ro/thumb/6/62/MySQL.svg/1200px-MySQL.svg.png" style="max-width:100%;">  <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" style="max-width:100%;"> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Toad-Original_RGB.png" style="max-width:100%;">  <img height="70" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" style="max-width:100%;"> <img height="50" src="https://miro.medium.com/max/1000/1*ilC2Aqp5sZd1wi0CopD1Hw.png" style="max-width:100%;"> 
-
-
 
 ## GitHub Statistics
 
