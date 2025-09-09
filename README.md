@@ -33,7 +33,7 @@ I also hold a **Master’s degree in Advanced Software Services** and a **BBA in
 
 ## 📫 How to Reach Me
 - Email: **usebastian12@protonmail.com**  
-- LinkedIn: *[your-link-here]*  
+- LinkedIn: *https://www.linkedin.com/in/usebastian12/*  
 - GitHub: You’re already here ✨
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
