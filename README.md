@@ -8,6 +8,7 @@ I also hold a **Master’s degree in Advanced Software Services** and a **BBA in
 ---
 
 ## 🎯 What I’m Working On
+
 - 🚀 **SkillCloudy (USG Cloud Cards)** – a SaaS for cloud certification prep with multilingual flashcards  
 - 📄 **SmartPDF.ai** – an AI-powered document automation platform  
 - 🌐 Building my consulting roadmap in **Azure, AI, and Cloud Security**
@@ -15,6 +16,7 @@ I also hold a **Master’s degree in Advanced Software Services** and a **BBA in
 ---
 
 ## 📚 Current Focus
+
 - **Learning & Certifications**:  
   - Microsoft Azure (AZ-900, AZ-104, SC-900, AZ-305, AZ-500)  
   - AI & Data (AI-900, DP-100, AI-102)  
@@ -24,6 +26,7 @@ I also hold a **Master’s degree in Advanced Software Services** and a **BBA in
 ---
 
 ## 💡 About Me
+
 - 👨‍💻 Passionate about **open-source**, sharing knowledge, and community building  
 - 🔭 Exploring **AI integration in SaaS** and **serverless architectures**  
 - 🤝 Open to **collaboration, freelancing, and consulting opportunities**  
@@ -32,6 +35,7 @@ I also hold a **Master’s degree in Advanced Software Services** and a **BBA in
 ---
 
 ## 📫 How to Reach Me
+
 - Email: **usebastian12@protonmail.com**  
 - LinkedIn: *https://www.linkedin.com/in/usebastian12/*  
 - GitHub: You’re already here ✨
