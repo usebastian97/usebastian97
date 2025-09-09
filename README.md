@@ -31,12 +31,6 @@ With over 3 years of experience in software development, IT consulting, and Andr
 - LinkedIn: *https://www.linkedin.com/in/usebastian12/*  
 - GitHub: You’re already here ✨
 
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 ## GitHub Statistics
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=usebastian97&theme=algolia&show_icons=true)
-
-## GITHUB STREAK STATS
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=usebastian97)
