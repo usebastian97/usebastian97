@@ -1,9 +1,8 @@
 # Hi there, I'm Sebastian 👋
 
-I’m an IT professional and open-source enthusiast transitioning into a career as a **Cloud Architect** with a strong focus on **Microsoft Azure **, ** AI **, and ** security**.  
+I’m an IT professional and open-source enthusiast transitioning into a career as a **Cloud Architect** with a strong focus on **Microsoft Azure**, **AI**, and **Security**.  
 
-With over 3 years of experience in software development, IT consulting, and Android UI engineering, I bring together hands-on coding expertise and business insight.  
-I also hold a **Master’s degree in Advanced Software Services** and a **BBA in Marketing**, which helps me bridge **technical solutions with strategic business goals**.  
+With over 3 years of experience in software development, IT consulting, and Android UI engineering, I bring together hands-on coding expertise and business insight. I also hold a **Master’s degree in Advanced Software Services** and a **BBA in Marketing**, which helps me bridge **technical solutions with strategic business goals**.  
 
 ## 🎯 What I’m Working On
 
