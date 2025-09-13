@@ -16,7 +16,7 @@ With over 3 years of experience in software development, IT consulting, and Andr
   - Microsoft Azure (AZ-900, AZ-104, SC-900, AZ-305, AZ-500)  
   - AI & Data (AI-900, DP-100, AI-102)  
   - Terraform Associate  
-- **Cloud & SaaS Development**: Next.js, Supabase, Cloudflare, FastAPI, and Flutter  
+- **Cloud & SaaS Development**: Next.js, Supabase, Cloudflare, FastAPI  
 
 ## 💡 About Me
 
