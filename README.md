@@ -5,6 +5,13 @@
 [![GitHub followers](https://img.shields.io/github/followers/usebastian?label=Follow&style=social)](https://github.com/usebastian)
 [![AZ-900 Certified](https://img.shields.io/badge/Microsoft%20Certified-AZ--900%20Azure%20Fundamentals-blue?logo=microsoft-azure&logoColor=white)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 
+## ☁️ About Me  
+
+I’m an **IT professional** and **open-source enthusiast** transitioning into a career as a **Cloud Architect** with a focus on **Microsoft Azure**, **AI**, and **Cloud Security**.  
+
+With over **3 years of experience** in software development, IT consulting, and Android UI engineering, I combine **hands-on coding expertise** with **strategic business insight**.  
+I hold a **Master’s in Advanced Software Services** and a **BBA in Marketing**, helping me bridge **technical innovation and business impact**.
+
 ---
 
 ## ⚙️ Tech Stack  
@@ -21,8 +28,6 @@
   <img src="https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Bun-000000?logo=bun&logoColor=white" />
 </p>
-
----
 
 ## 🎓 Certifications  
 
@@ -45,20 +50,8 @@
   <img src="https://img.shields.io/badge/Terraform%20Associate-Planned-lightgrey?logo=terraform&logoColor=white" />
 </p>
 
----
-
-## ☁️ About Me  
-
-I’m an **IT professional** and **open-source enthusiast** transitioning into a career as a **Cloud Architect** with a focus on **Microsoft Azure**, **AI**, and **Cloud Security**.  
-
-With over **3 years of experience** in software development, IT consulting, and Android UI engineering, I combine **hands-on coding expertise** with **strategic business insight**.  
-I hold a **Master’s in Advanced Software Services** and a **BBA in Marketing**, helping me bridge **technical innovation and business impact**.
-
----
-
 ## 🎯 Current Focus  
-
-### 🧠 Learning & Certifications  
+ 
 - ✅ **Microsoft Certified: AZ-900 – Azure Fundamentals**  
 - In Progress: AZ-104 · SC-900 · AZ-305 · AZ-500 · AI-900 · DP-100 · AI-102 · Terraform Associate  
 
@@ -68,16 +61,12 @@ I hold a **Master’s in Advanced Software Services** and a **BBA in Marketing**
 - **Infrastructure:** Cloudflare · Azure · Docker · Terraform  
 - **Focus Areas:** Serverless · AI Integration · Secure Cloud Design  
 
----
-
 ## 💡 Values & Interests  
 
 - Advocate for **open-source**, **learning in public**, and **community building**  
 - Exploring **AI-driven SaaS**, **serverless architectures**, and **DevSecOps practices**  
 - Open to **collaboration, freelancing, and consulting opportunities**  
 - Based in **Switzerland**, building solutions with a **global perspective**
-
----
 
 ## 📊 GitHub Stats  
 
@@ -86,14 +75,10 @@ I hold a **Master’s in Advanced Software Services** and a **BBA in Marketing**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usebastian&layout=compact&theme=transparent&hide_border=true" height="150" />
 </p>
 
----
-
 ## 📫 Connect with Me  
 
 - 📧 [usebastian12@protonmail.com](mailto:usebastian12@protonmail.com)  
 - 💼 [linkedin.com/in/usebastian12](https://www.linkedin.com/in/usebastian12/)  
 - 🖥️ [GitHub Profile](https://github.com/usebastian)
-
----
 
 > _“Turning cloud learning into real-world architecture — one project at a time.”_
