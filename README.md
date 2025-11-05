@@ -24,20 +24,35 @@
 
 ---
 
+## 🎓 Certifications  
+
+<p align="start">
+  <a href="https://learn.microsoft.com/en-us/certifications/azure-fundamentals/">
+    <img src="https://raw.githubusercontent.com/usebastian/usebastian/main/microsoft-certified-fundamentals-badge.svg" alt="Microsoft Certified: Azure Fundamentals" width="140"/>
+  </a>
+</p>
+
+<p align="start"><b>✅ Microsoft Certified: Azure Fundamentals (AZ-900)</b></p>
+
+---
+
+<p align="start">
+  <img src="https://img.shields.io/badge/AZ--104%20Azure%20Administrator-In%20Progress-yellow?logo=microsoft-azure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/SC--900%20Security%2C%20Compliance%20%26%20Identity-In%20Progress-yellow?logo=microsoft-azure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/AZ--305%20Azure%20Solutions%20Architect-In%20Progress-yellow?logo=microsoft-azure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/AZ--500%20Azure%20Security%20Engineer-Planned-lightgrey?logo=microsoft-azure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/AI--900%20AI%20Fundamentals-Planned-lightgrey?logo=microsoft-azure&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Terraform%20Associate-Planned-lightgrey?logo=terraform&logoColor=white" />
+</p>
+
+---
+
 ## ☁️ About Me  
 
 I’m an **IT professional** and **open-source enthusiast** transitioning into a career as a **Cloud Architect** with a focus on **Microsoft Azure**, **AI**, and **Cloud Security**.  
 
-With over **3 years of experience** in software development, IT consulting, and Android UI engineering, I combine **hands-on coding expertise** with **strategic business understanding**.  
+With over **3 years of experience** in software development, IT consulting, and Android UI engineering, I combine **hands-on coding expertise** with **strategic business insight**.  
 I hold a **Master’s in Advanced Software Services** and a **BBA in Marketing**, helping me bridge **technical innovation and business impact**.
-
----
-
-## 🚀 What I’m Building  
-
-- **[SkillCloudy (USG Cloud Cards)](https://github.com/usebastian)** – A multilingual SaaS platform for **cloud certification prep**, featuring smart flashcards and progress tracking  
-- **[SmartPDF.ai](https://github.com/usebastian)** – An **AI-powered document automation** platform for PDF management, conversion, and intelligent workflows  
-- **Azure | AI | Security Consulting Roadmap** – Designing **cloud-native architectures** and frameworks aligned with the **Microsoft Cloud Adoption Framework (CAF)**  
 
 ---
 
